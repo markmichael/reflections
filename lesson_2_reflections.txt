@@ -24,6 +24,10 @@ or make a second viable version of the code.
 
 How do the diagrams help you visualize the branch structure?
 
+diagrams help you know what 
+commits are accessible in each 
+branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
