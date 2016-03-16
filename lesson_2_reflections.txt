@@ -31,5 +31,16 @@ branch.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+merging branches combine all the additions 
+and deletions made in each branch into a 
+single version. It is represented by two 
+branches merging together because that's 
+exactly what happens.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatic merging can cause bugs
+when changing parts of a line of
+code. Manual merging takes longer
+and is susceptible to user error.
